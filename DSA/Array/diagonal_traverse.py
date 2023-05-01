@@ -2,7 +2,7 @@ import collections
 
 
 class Solution:
-    def findDiagonalOrder(self, matrix: List[List[int]]) -> List[int]:
+    def findDiagonalOrder(self, matrix: list[list[int]]) -> list[int]:
         result = [ ]
         dd = collections.defaultdict(list)
         if not matrix: return result
