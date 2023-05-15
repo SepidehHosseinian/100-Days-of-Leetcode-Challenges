@@ -1,5 +1,3 @@
-# Time Complexity : O(n)
-# Space Complexity : O(1)
 class Solution(object):
     def pivotIndex(self, nums):
         # Initialize leftSum & rightSum to store the sum of all the numbers strictly to the index's left & right respectively...
