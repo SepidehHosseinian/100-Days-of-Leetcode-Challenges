@@ -20,5 +20,5 @@ As long as you follow the order shown in the flow chart, you will minimize the p
 Hope you enjoy this repository
 Do not forget to follow my account ;)
 
-Sepide
+Sepideh
 
