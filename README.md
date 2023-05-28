@@ -16,7 +16,6 @@ As long as you follow the order shown in the flow chart, you will minimize the p
 
 ![Screenshot (922)](https://github.com/Nadia-Mas/LeetCode_Solutions/assets/88572957/9cece424-566b-44b8-837a-12e3141587e7)
 
-
 Hope you enjoy this repository
 Do not forget to follow my account ;)
 
