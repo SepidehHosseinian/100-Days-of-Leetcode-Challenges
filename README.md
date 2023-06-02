@@ -1,4 +1,4 @@
-# LeetCode_Solutions
+# LeetCode Challange
 ![0_zuhXdNAIUoxEem4-](https://github.com/Nadia-Mas/LeetCode_Solutions/assets/88572957/c202f708-e796-4625-a628-28e9b634be4f)
 
 In this Repository we have provided all our solutions for problems on different topics about data structures and algorithms on LeetCode, for solving a problem mostly there are more than just one ways, and you can only see some of them here.
