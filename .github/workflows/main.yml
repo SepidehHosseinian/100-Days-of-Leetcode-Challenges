@@ -11,6 +11,4 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: install package
-        run: make install
-      - name: format
-        run: make format
+        run: make instal
