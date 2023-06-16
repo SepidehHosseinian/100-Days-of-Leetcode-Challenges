@@ -1,4 +1,4 @@
-# LeetCode Challange
+# 100 Days of Leetcode Challenges
 [![CI](https://github.com/SepidehHosseinian/LeetCodeChallenge/actions/workflows/main.yml/badge.svg)](https://github.com/SepidehHosseinian/LeetCodeChallenge/actions/workflows/main.yml)
 
 ![0_zuhXdNAIUoxEem4-](https://github.com/Nadia-Mas/LeetCode_Solutions/assets/88572957/c202f708-e796-4625-a628-28e9b634be4f)
