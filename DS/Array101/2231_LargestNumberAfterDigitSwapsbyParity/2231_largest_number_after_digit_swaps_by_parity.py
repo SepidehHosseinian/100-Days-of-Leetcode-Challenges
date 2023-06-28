@@ -5,8 +5,7 @@ class Solution:
  
         odds=[]
         evens=[]
-        answer=0
-
+        
         for i in digit_list:
             if i%2 == 0:
                 evens.append(i)

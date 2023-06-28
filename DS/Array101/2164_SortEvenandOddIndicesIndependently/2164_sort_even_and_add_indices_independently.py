@@ -1,3 +1,9 @@
+from ast import List
+from audioop import add
+from functools import reduce
+from itertools import zip_longest
+
+
 class Solution:
     def sortEvenOdd(self, nums: List[int]) -> List[int]:
         # odds=[]

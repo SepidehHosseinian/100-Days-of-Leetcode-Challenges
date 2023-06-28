@@ -1,3 +1,6 @@
+from collections import defaultdict
+
+
 class Solution:
     def distance(self, nums: list[int]) -> list[int]:
 

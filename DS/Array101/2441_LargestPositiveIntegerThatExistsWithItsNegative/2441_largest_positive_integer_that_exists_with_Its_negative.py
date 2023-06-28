@@ -1,12 +1,15 @@
+from ast import List
+
+
 class Solution:
     def findMaxK(self, nums: List[int]) -> int:
-        #1
+        #Approach 01
         # max_init = -1
         # for i in range(len(nums)):
         #     if -nums[i] in (nums):
         #         max_init = max(max_init, abs(nums[i]))
         # return max_init 
-        #2
+        #Approach 02
         dict1 = {}
         res = []
         for i in nums :
@@ -19,5 +22,5 @@ class Solution:
             return max(res)
         else : 
             return -1
-        #3
+        #Approach 03
         # return max([-1] + [x for x in nums if x > 0 and -x in nums])    
