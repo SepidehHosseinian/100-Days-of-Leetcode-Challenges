@@ -1,3 +1,6 @@
+from ast import List
+
+
 class Solution:
     def checkSubarraySum(self, nums: List[int], k: int) -> bool:
         # sum_dict={0:-1}
