@@ -1,3 +1,6 @@
+from ast import List
+
+
 class Solution:
     def findNonMinOrMax(self, nums: List[int]) -> int:
         # if len(nums)<3:
