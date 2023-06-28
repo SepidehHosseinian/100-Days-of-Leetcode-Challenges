@@ -1,3 +1,6 @@
+from ast import List
+
+
 class Solution:
     def findMinArrowShots(self, points: List[List[int]]) -> int:
         points.sort(key = lambda x: x[1])      # Example:  points = [[2,4],[1,6],[1,3],[7,8]]
