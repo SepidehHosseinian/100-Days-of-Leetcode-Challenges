@@ -1,5 +1,5 @@
-986. Interval List Intersections
-Medium
+### 986. Interval List Intersections
+|Medium
 
 You are given two lists of closed intervals, firstList and secondList, where firstList[i] = [starti, endi] and secondList[j] = [startj, endj]. Each list of intervals is pairwise disjoint and in sorted order.
 
@@ -23,11 +23,16 @@ Input: firstList = [[1,3],[5,9]], secondList = []
 Output: []
 ```
 
-Constraints:
+### Constraints:
 
 0 <= firstList.length, secondList.length <= 1000
+
 firstList.length + secondList.length >= 1
+
 0 <= starti < endi <= 109
+
 endi < starti+1
+
 0 <= startj < endj <= 109 
+
 endj < startj+1

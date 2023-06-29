@@ -1,5 +1,5 @@
-905. Sort Array By Parity
-Easy
+### 905. Sort Array By Parity
+|Easy
 
 Given an integer array nums, move all the even integers at the beginning of the array followed by all the odd integers.
 
@@ -19,7 +19,8 @@ Input: nums = [0]
 Output: [0]
 ```
 
-Constraints:
+### Constraints:
 
 1 <= nums.length <= 5000
+
 0 <= nums[i] <= 5000

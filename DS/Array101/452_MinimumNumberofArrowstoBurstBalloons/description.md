@@ -1,5 +1,5 @@
-452. Minimum Number of Arrows to Burst Balloons
-Medium
+### 452. Minimum Number of Arrows to Burst Balloons
+|Medium
 
 There are some spherical balloons taped onto a flat wall that represents the XY-plane. The balloons are represented as a 2D integer array points where points[i] = [xstart, xend] denotes a balloon whose horizontal diameter stretches between xstart and xend. You do not know the exact y-coordinates of the balloons.
 
@@ -32,8 +32,10 @@ Explanation: The balloons can be burst by 2 arrows:
 - Shoot an arrow at x = 4, bursting the balloons [3,4] and [4,5].
 ```
 
-Constraints:
+#### Constraints:
 
 1 <= points.length <= 105
+
 points[i].length == 2
+
 -231 <= xstart < xend <= 231 - 1

@@ -1,4 +1,4 @@
-2154. Keep Multiplying Found Values by Two
+### 2154. Keep Multiplying Found Values by Two
 |Easy
 
 You are given an array of integers nums. You are also given an integer original which is the first number that needs to be searched for in nums.
@@ -30,9 +30,8 @@ Explanation:
 - 4 is not found in nums. Thus, 4 is returned.
 ```
 
-Constraints:
-```
+### Constraints:
+
 1 <= nums.length <= 1000
 
 1 <= nums[i], original <= 1000
-```

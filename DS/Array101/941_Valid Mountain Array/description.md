@@ -1,5 +1,5 @@
-941. Valid Mountain Array
-Easy
+### 941. Valid Mountain Array
+|Easy
 
 Given an array of integers arr, return true if and only if it is a valid mountain array.
 
@@ -28,7 +28,8 @@ Input: arr = [0,3,2,1]
 Output: true
 ```
 
-Constraints:
+### Constraints:
 
 1 <= arr.length <= 104
+
 0 <= arr[i] <= 104

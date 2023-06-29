@@ -1,5 +1,5 @@
-1299. Replace Elements with Greatest Element on Right Side
-Easy
+### 1299. Replace Elements with Greatest Element on Right Side
+|Easy
 
 Given an array arr, replace every element in that array with the greatest element among the elements to its right, and replace the last element with -1.
 
@@ -26,8 +26,7 @@ Output: [-1]
 Explanation: There are no elements to the right of index 0.
 ``` 
 
-Constraints:
-```
+### Constraints:
+
 1 <= arr.length <= 104
 1 <= arr[i] <= 105
-```

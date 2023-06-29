@@ -1,5 +1,5 @@
-1051. Height Checker
-Easy
+### 1051. Height Checker
+|Easy
 
 A school is trying to take an annual photo of all the students. The students are asked to stand in a single file line in non-decreasing order by height. Let this ordering be represented by the integer array expected where expected[i] is the expected height of the ith student in line.
 
@@ -37,8 +37,7 @@ expected: [1,2,3,4,5]
 All indices match.
 ```
 
-Constraints:
-```
+### Constraints:
+
 1 <= heights.length <= 100
 1 <= heights[i] <= 100
-```

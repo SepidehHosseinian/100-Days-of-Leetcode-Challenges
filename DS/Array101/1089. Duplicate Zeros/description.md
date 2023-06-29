@@ -1,5 +1,5 @@
-1089. Duplicate Zeros
-Easy
+### 1089. Duplicate Zeros
+|Easy
 
 Given a fixed-length integer array arr, duplicate each occurrence of zero, shifting the remaining elements to the right.
 
@@ -20,8 +20,7 @@ Output: [1,2,3]
 Explanation: After calling your function, the input array is modified to: [1,2,3]
 ``` 
 
-Constraints:
-```
+### Constraints:
+
 1 <= arr.length <= 104
 0 <= arr[i] <= 9
-```

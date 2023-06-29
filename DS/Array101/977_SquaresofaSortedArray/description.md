@@ -1,5 +1,5 @@
-977. Squares of a Sorted Array
-Easy
+### 977. Squares of a Sorted Array
+|Easy
 
 Given an integer array nums sorted in non-decreasing order, return an array of the squares of each number sorted in non-decreasing order.
 
@@ -18,8 +18,10 @@ Input: nums = [-7,-3,2,3,11]
 Output: [4,9,9,49,121]
 ``` 
 
-Constraints:
+### Constraints:
 
 1 <= nums.length <= 104
+
 -104 <= nums[i] <= 104
+
 nums is sorted in non-decreasing order.
