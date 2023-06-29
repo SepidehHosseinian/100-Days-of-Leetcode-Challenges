@@ -1,5 +1,5 @@
-215. Kth Largest Element in an Array
-Medium
+### 215. Kth Largest Element in an Array
+|Medium
 
 Given an integer array nums and an integer k, return the kth largest element in the array.
 
@@ -20,7 +20,8 @@ Input: nums = [3,2,3,1,2,4,5,5,6], k = 4
 Output: 4
 ```
 
-Constraints:
+### Constraints:
 
 1 <= k <= nums.length <= 105
+
 -104 <= nums[i] <= 104
