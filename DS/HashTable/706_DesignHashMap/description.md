@@ -1,5 +1,5 @@
-706. Design HashMap
-Easy
+### 706. Design HashMap
+|Easy
 
 Design a HashMap without using any built-in hash table libraries.
 
@@ -12,7 +12,7 @@ void remove(key) removes the key and its corresponding value if the map contains
  
 
 Example 1:
-
+```
 Input
 ["MyHashMap", "put", "put", "get", "get", "put", "get", "remove", "get"]
 [[], [1, 1], [2, 2], [1], [3], [2, 1], [2], [2], [2]]
@@ -29,9 +29,10 @@ myHashMap.put(2, 1); // The map is now [[1,1], [2,1]] (i.e., update the existing
 myHashMap.get(2);    // return 1, The map is now [[1,1], [2,1]]
 myHashMap.remove(2); // remove the mapping for 2, The map is now [[1,1]]
 myHashMap.get(2);    // return -1 (i.e., not found), The map is now [[1,1]]
- 
+``` 
 
-Constraints:
+### Constraints:
 
 0 <= key, value <= 106
+
 At most 104 calls will be made to put, get, and remove.
