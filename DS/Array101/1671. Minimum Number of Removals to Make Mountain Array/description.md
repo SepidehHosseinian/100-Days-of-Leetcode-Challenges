@@ -1,4 +1,4 @@
-1671. Minimum Number of Removals to Make Mountain Array
+### 1671. Minimum Number of Removals to Make Mountain Array
 |Hard
 
 You may recall that an array arr is a mountain array if and only if:
@@ -25,11 +25,10 @@ Output: 3
 Explanation: One solution is to remove the elements at indices 0, 1, and 5, making the array nums = [1,5,6,3,1].
 ``` 
 
-Constraints:
-```
+### Constraints:
+
 3 <= nums.length <= 1000
 
 1 <= nums[i] <= 109
 
 It is guaranteed that you can make a mountain array out of nums.
-```

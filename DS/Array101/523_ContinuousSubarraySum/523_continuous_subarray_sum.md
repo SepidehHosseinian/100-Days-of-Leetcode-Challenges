@@ -1,5 +1,5 @@
-523. Continuous Subarray Sum
-Medium
+### 523. Continuous Subarray Sum
+|Medium
 
 Given an integer array nums and an integer k, return true if nums has a good subarray or false otherwise.
 
@@ -32,9 +32,12 @@ Input: nums = [23,2,6,4,7], k = 13
 Output: false
 ```
 
-Constraints:
+### Constraints:
 
 1 <= nums.length <= 105
+
 0 <= nums[i] <= 109
+
 0 <= sum(nums[i]) <= 231 - 1
+
 1 <= k <= 231 - 1

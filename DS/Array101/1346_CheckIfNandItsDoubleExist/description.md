@@ -1,4 +1,4 @@
-1346. Check If N and Its Double Exist
+### 1346. Check If N and Its Double Exist
 |Easy
 
 
@@ -22,9 +22,8 @@ Output: false
 Explanation: There is no i and j that satisfy the conditions.
 ```
 
-Constraints:
-```
+### Constraints:
+
 2 <= arr.length <= 500
 
 -103 <= arr[i] <= 103
-```

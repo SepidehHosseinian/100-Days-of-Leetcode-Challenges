@@ -1,4 +1,4 @@
-2164. Sort Even and Odd Indices Independently
+### 2164. Sort Even and Odd Indices Independently
 |Easy
 
 You are given a 0-indexed integer array nums. Rearrange the values of nums according to the following rules:
@@ -31,9 +31,8 @@ Since there is exactly one odd index and one even index, no rearrangement of val
 The resultant array formed is [2,1], which is the same as the initial array. 
 ```
 
-Constraints:
-```
+### Constraints:
+
 1 <= nums.length <= 100
 
 1 <= nums[i] <= 100
-```

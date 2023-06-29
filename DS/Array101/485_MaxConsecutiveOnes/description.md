@@ -1,5 +1,5 @@
-485. Max Consecutive Ones
-Easy
+### 485. Max Consecutive Ones
+|Easy
 
 Companies
 Given a binary array nums, return the maximum number of consecutive 1's in the array.
@@ -18,7 +18,8 @@ Input: nums = [1,0,1,1,0,1]
 Output: 2
 ``` 
 
-Constraints:
+### Constraints:
 
 1 <= nums.length <= 105
+
 nums[i] is either 0 or 1.

@@ -25,6 +25,6 @@ Swap the first digit 5 with the digit 7, this results in the number 87655.
 Note that there may be other sequences of swaps but it can be shown that 87655 is the largest possible number.
 ``` 
 
-Constraints:
+### Constraints:
 
 1 <= num <= 109

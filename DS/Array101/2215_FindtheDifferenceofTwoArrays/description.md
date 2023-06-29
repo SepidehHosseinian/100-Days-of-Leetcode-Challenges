@@ -1,4 +1,4 @@
-2215. Find the Difference of Two Arrays
+### 2215. Find the Difference of Two Arrays
 |Easy
 
 Given two 0-indexed integer arrays nums1 and nums2, return a list answer of size 2 where:
@@ -26,9 +26,8 @@ For nums1, nums1[2] and nums1[3] are not present in nums2. Since nums1[2] == num
 Every integer in nums2 is present in nums1. Therefore, answer[1] = [].
 ``` 
 
-Constraints:
-```
+### Constraints:
+
 1 <= nums1.length, nums2.length <= 1000
 
 -1000 <= nums1[i], nums2[i] <= 1000
-```

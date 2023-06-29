@@ -1,5 +1,5 @@
-414. Third Maximum Number
-Easy
+### 414. Third Maximum Number
+|Easy
 
 Given an integer array nums, return the third distinct maximum number in this array. If the third maximum does not exist, return the maximum number.
 
@@ -33,7 +33,8 @@ The second distinct maximum is 2 (both 2's are counted together since they have 
 The third distinct maximum is 1.
  ```
 
-Constraints:
+### Constraints:
 
 1 <= nums.length <= 104
+
 -231 <= nums[i] <= 231 - 1
