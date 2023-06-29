@@ -1,3 +1,6 @@
+from ast import List
+
+
 class Solution:
     def getRow(self, rowIndex: int) -> List[int]:
         r = [1]

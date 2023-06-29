@@ -1,3 +1,6 @@
+from ast import List
+
+
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         l,r = 0,  len(nums)-1
